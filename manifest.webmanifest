@@ -1,0 +1,16 @@
+{
+  "name": "Elif Sena Çalışma Köşesi",
+  "short_name": "Elif Sena",
+  "description": "Elif Sena için ders çalışma uygulaması",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFEAF2",
+  "theme_color": "#FF9EBB",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
